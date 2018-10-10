@@ -1,0 +1,22 @@
+.half {
+    margin: 35px 25%;
+    width: 50%;
+}
+
+.center {
+    text-align: center;
+}
+
+textarea {
+    width: 100%;
+}
+
+.readonly {
+    background-color: gray;
+}
+
+.container {
+    margin: 35px 30%;
+    width: 40%;
+    border: 1px solid gray;
+}
